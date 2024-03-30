@@ -1,0 +1,53 @@
+Adrián Huerta Vega	97GDA0	A	31	13																								
+Adrian Villanueva Sandoval	1617NDA0	C	8	7	46	5	2	7	3	3	2	3	7	4	4	6	67	5	9	5	3	5	4	7	12	6	5	6
+Alberto Zugarazo Tavira	1617VLA8	B	31	19	41	4	4	4	2	3	1	7	6	5	3	2												
+Alejandro Amador Espinoza de los Monteros	1617SLA2	A	31	24	85	9	8	9	2	6	5	7	16	8	5	10	84	10	7	7	6	6	6	3	13	8	8	10
+ALISSON ARANZA NOL RODRIGUEZ	1617DLA80	B	31	28	35	9	3	6	1	3	1	4	3	0	3	2	56	9	5	10	2	2	1	3	10	4	4	6
+Allison Fernanda Martinez Ramirez	1617MLA0	A	31	25	43	5	7	5	2	0	1	0	8	5	4	6	54	3	6	8	4	1	1	2	12	7	4	6
+Andrea Leticia Zuñiga Morales	1617RNA19	B	31	30	72	8	6	9	3	4	5	7	8	6	6	10												
+Andrea Verónica Hernández Madera	1617DNA3	B	31	30	67	6	5	7	5	3	1	3	13	8	7	9	73	11	8	9	4	3	1	4	14	6	5	8
+Angel Josue Martínez Garcia	1617RNA94	C	8	6	37	2	6	3	6	3	1	2	6	2	5	1	43	9	3	4	3	1	3	2	5	5	5	3
+Angel Uriel Gonzalez Hernandez	1617RNA17	C	8	6	50	6	6	4	3	4	0	4	7	5	5	6	72	6	10	8	5	3	2	5	14	6	8	5
+Angel Yael Ramírez Ramírez	1617MNA6	A	31	15	43	8	6	6	1	4	0	7	5	1	2	3												
+Camila Yamel Sanchez Ramos	1617MMA6	B	31	17	61	7	7	6	5	4	3	4	7	8	4	6	64	7	7	7	5	2	1	4	12	7	4	8
+Cristian Eduardo Lugo	247JRA1	C	8	7	51	6	5	3	3	5	1	5	7	5	7	4	59	8	5	4	5	3	4	7	8	5	3	7
+Dafne Jatziri Perea aguilera	1617GFA9	B	31	29													72	5	10	9	5	2	5	6	10	5	10	5
+Dan Isac Gonzalez Martinez	1617RNA9	A	31	18													60	7	4	7	6	1	2	7	6	9	5	6
+Danna Victoria Juarez Velazquez	347LNA96	C	8	8	61	9	5	6	5	3	1	8	6	8	4	6	67	8	8	9	5	5	1	3	9	5	6	8
+David Eli Castañeda Posos	1617SVB1	B	31	26	62	7	6	7	8	4	3	3	8	5	7	4	64	6	3	5	7	3	2	8	13	6	5	6
+Dayana Giselle Flores González	1617NYA1	A	31	20	49	8	1	5	6	0	3	4	6	4	5	7	52	7	5	6	4	3	1	2	10	4	5	5
+Dominic Bairon Peregrin Hernandez	1617RMA71	B	31	28	38	5	4	1	3	4	1	3	3	5	2	7	62	12	7	7	5	3	0	4	9	6	6	3
+Donovan Alexander Hernández Frías	1617RNA92	A	31	27	62	10	5	6	3	5	2	5	8	6	6	6	55	6	6	8	3	2	3	2	7	7	6	5
+Donovan Andrei Sanchez Lopez	1617PNA90	C	8	5	57	7	7	6	6	2	1	5	8	4	6	5	34	1	7	4	3	0	1	2	4	6	3	3
+Erick Alejandro Garrino Sanabria	1607NRA30	A	31	16													77	12	5	10	6	2	5	2	12	7	8	8
+fERNANDO cRISOSTOMO CABALLERO	1617BRA2	B	31	28	44	7	4	3	3	2	3	4	7	4	4	3	39	6	8	3	1	1	3	3	2	5	3	4
+Fernando Gonzalez Cruz	1617RRA61	B	31	28	47	7	9	3	1	1	2	4	9	2	7	2	64	9	10	8	4	3	2	2	8	7	7	4
+Georgia Valentina Cortes Dominguez	17MRA1	C	8	7	62	7	7	6	6	3	2	1	9	7	7	7	64	4	9	5	3	2	2	5	10	7	8	9
+Grecia Zoe Cortes Dominguez	17MRA61	C	8	6	44	8	4	6	3	2	3	2	4	5	2	5	53	3	6	6	4	2	2	5	11	6	4	4
+Ian Patricio Merchan	1617RNA4	B	31	26	44	8	1	4	1	1	3	5	9	5	4	3	36	3	3	2	3	3	3	2	9	3	3	2
+Job Enrique Ortega Mosqueda	1617SBA3	A	31	26	64	9	7	6	6	3	2	7	8	5	8	3	73	11	7	5	5	3	2	5	11	9	8	7
+Josafat Mosqueda Guerrero	1617RSA66	A	31	18	67	10	6	4	6	3	3	7	13	2	6	7	68	9	6	7	6	3	3	5	11	4	7	7
+Jose Humberto Ortega Perez	1617RMA1	B	31	31	38	3	5	2	2	1	0	5	6	6	4	4	36	6	5	5	1	1	2	3	4	5	1	3
+Juan Miguel Rico Hernandez	1617RNA04	A	31	27	62	6	9	6	4	5	4	5	6	3	9	5	51	5	6	5	6	2	3	3	8	5	3	5
+Juan Pablo Emiliano Hernandez Segura	1617GNA9	C	8	5	39	9	4	4	3	1	1	2	3	4	5	3	40	6	2	3	2	3	4	5	5	2	4	4
+Karla Krystal Gutierrez Prieto	1627RRA29	C	8	2																								
+Kendra Monserrat Mora Moreno	1617RNA93	C	8	6																								
+Kenia Sugey Aguayo Ramirez	1696MNA8	C	8	7	57	6	4	4	3	2	2	5	8	7	8	8	61	5	5	6	7	2	3	6	10	5	5	7
+Kevin Alexis Espejel Gutierrez	1617TVA5	A	31	27	70	13	7	7	6	3	2	5	11	5	3	8	73	6	11	6	5	3	2	8	11	7	7	7
+LEONARDO SAMUEL MOLINA ROSALES	347SNA46	C	8	8	84	11	7	6	6	5	4	10	12	10	4	9	74	9	6	7	6	5	4	4	8	9	8	8
+Linette Miranda Marquez Torres	1617RNA18	C	8	8	61	5	4	12	6	3	3	3	6	6	8	5	67	9	5	7	7	4	5	2	12	4	6	6
+Luciana Ubaldo Hidalgo	1617DCA4	A	31	29	66	11	5	6	7	3	2	8	7	7	5	5	61	7	5	6	9	3	1	2	13	3	6	6
+María Ines Villegas Vazquez	1617ZNA5	A	31	26	44	6	5	5	7	2	0	4	4	5	3	3	61	5	8	8	6	4	3	3	7	7	5	5
+Nahomi Abril Lagunas Arteaga	1617RHA6	B	31	23																								
+Naomi fernanda Tovar Palafox	1617LMA10	B	31	29	48	6	2	8	6	3	0	1	6	5	4	7	60	7	4	7	7	1	3	3	12	3	6	7
+Romina Solis Rojas	247JMA3	C	8	7	45	10	1	3	3	2	1	5	6	5	6	3	45	4	3	6	3	1	1	3	8	5	7	4
+Samanta Paola Pablo Vera	1617RMA31	C	8	7	44	6	4	3	4	2	1	7	6	4	3	4	60	4	7	8	5	2	1	6	10	6	6	5
+Sara Merari Hernandez Gonzalez	7315NRA28	C	8	8	44	5	3	4	4	3	2	2	5	4	8	4	50	4	3	7	5	1	1	6	10	4	4	5
+Shendell Crystal Mendez Rangel	1617NHA30	A	31	24	43	7	3	5	7	2	1	4	4	5	2	3	63	5	6	4	7	2	3	6	12	5	8	5
+Sofia Cruz Eugenio	1617GFA6	B	31	28	42	9	1	6	0	1	1	5	5	5	4	5	42	2	5	6	4	2	4	3	3	5	4	4
+Sofia Quetzalli Trijullo Valencia	1617LFA6	B	31	25	67	9	7	8	4	2	2	7	10	6	7	5	77	10	8	10	2	2	2	6	13	7	7	10
+SUGEY SARAI ZARABIA MARTINEZ	1617RGA7	A	31	23	71	12	8	11	4	3	2	5	13	3	4	6	70	11	10	10	3	0	3	7	11	5	6	4
+Uri Ariel Vargas Juarez	1617RRA33	C	8	6	42	11	3	4	2	3	2	3	5	4	5	0												
+Valeria Maricruz Bautista Lopez	1617PLA6	A	31	25	39	5	4	6	3	1	1	6	3	3	3	4	57	6	4	7	6	1	4	6	7	5	4	7
+Wendy Fabiola Diaz Cruz	1627RNA89	C	8	2																								
+Yasmin De Lucio Garcia	1617RSA50	C	8	8	67	9	7	5	3	2	4	4	12	7	5	9	84	10	11	12	4	3	1	4	15	8	8	8
